@@ -1,5 +1,5 @@
 # Cisco Packet Tracer IOT Smart Home System
-IoT Based smart Home with WPA&WPA2 Security in Cisco Packet Tracer
+IOT Based smart Home with WPA&WPA2 Security in Cisco Packet Tracer
 ## Usage
 ```bash
 1)Download and open IOT Smart Home System.pkt with Cisco Packet Tracer
